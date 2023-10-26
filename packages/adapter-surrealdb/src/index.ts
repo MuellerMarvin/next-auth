@@ -142,7 +142,7 @@ export const sessionToDoc = (
  *
  * #### Option 2/2 – Using HTTP:
  *
- * Usefull in serverlees environments like Vercel.
+ * Usefull in serverless environments like Vercel.
  *
  * ```js
  * import { ExperimentalSurrealHTTP } from "surrealdb.js"
